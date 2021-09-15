@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/nav_measurements"
+            android:icon="@drawable/measurements"
+            android:title="@string/m_bm" />
+
+        <item
+            android:id="@+id/nav_exercises"
+            android:icon="@drawable/exercises"
+            android:title="@string/m_e" />
+        <item
+            android:id="@+id/nav_celebrity"
+            android:icon="@drawable/celebrity"
+            android:title="@string/m_tc" />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/about_to_app"
+        android:title="@string/about_app"/>
+</menu>

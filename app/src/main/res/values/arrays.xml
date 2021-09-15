@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cel_array">
+        <item>Арнольд Шварцнеггер</item>
+        <item>Сильвестр Сталлоне</item>
+        <item>Владимир Турчинский</item>
+        <item>Гельмут Штребль</item>
+        <item>Фил Хит</item>
+        <item>Дуэйн Джонсон</item>
+    </string-array>
+
+    АРНИ
+
+    <string-array name="cel_choose1">
+        <item>Первая тренировка</item>
+        <item>Вторая тренировка</item>
+        <item>Третья тренировка</item>
+    </string-array>
+
+    СИЛЬВЕСТР
+
+    <string-array name="cel_choose2">
+        <item>Тренировка Груди</item>
+        <item>Тренировка плеч</item>
+        <item>Тренировка рук</item>
+        <item>Тренировка спины</item>
+        <item>Тренировка ног</item>
+        <item>Тренировка пресса</item>
+    </string-array>
+
+    ВЛАДИМИР
+
+    <string-array name="cel_choose3">
+        <item>Первая тренировка</item>
+        <item>Вторая тренировка</item>
+        <item>Третья тренировка</item>
+        <item>Четвертая тренировка</item>
+        <item>Пятая тренировка</item>
+        <item>Шестая тренировка</item>
+    </string-array>
+
+    ГЕЛЬМУТ
+
+    <string-array name="cel_choose4">
+        <item>День 1-й: Спина</item>
+        <item>День 2-й: Грудные мышцы</item>
+        <item>День 3-й: Мышцы ног</item>
+        <item>День 4-й: Руки</item>
+        <item>День 5-й: Мышцы пресса</item>
+        <item>День 6-й: Тренировка дельтовидных мышц (плечи)</item>
+    </string-array>
+
+    ФИЛ
+
+    <string-array name="cel_choose5">
+        <item>Понедельник (грудь, пресс)</item>
+        <item>Вторник (квадрицепс, бицепс бедра, икроножные мышцы)</item>
+        <item>Среда (спина)</item>
+        <item>Четверг (дельтовидные, пресс)</item>
+        <item>Пятница (руки)</item>
+    </string-array>
+
+    Скала
+
+    <string-array name="cel_choose6">
+        <item>Грудь</item>
+        <item>Ноги</item>
+        <item>Пресс и руки</item>
+        <item>Спина</item>
+        <item>Плечи</item>
+    </string-array>
+
+    ПЕРВАЯ ТРЕНИРОВКА АРНИ
+
+    <string-array name="training_A">
+        <item>1. Жим штанги лежа</item>
+        <item>2. Жим штанги на наклонной скамье</item>
+        <item>3. Пуловер со штангой</item>
+        <item>4. Подтягивания</item>
+        <item>5. Тяга штанги к груди в наклоне</item>
+        <item>6. Становая тяга</item>
+        <item>7. Сгибания туловища (пресс)</item>
+    </string-array>
+    <integer-array name="img_Arni_T1">
+        <item>@drawable/arni_t_1_1</item>
+        <item>@drawable/arni_t_1_2</item>
+        <item>@drawable/arni_t_1_3</item>
+        <item>@drawable/arni_t_1_4</item>
+        <item>@drawable/arni_t_1_5</item>
+        <item>@drawable/arni_t_1_6</item>
+        <item>@drawable/arni_t_1_7</item>
+    </integer-array>
+    <string-array name="training_A_left">
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировкий</item>
+        <item>Собственный вес</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_A_right">
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>Максимальное кол-во</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_A_op">
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 5-10</item>
+    </string-array>
+
+    ВТОРАЯ ТРЕНИРОВКА АРНИ
+
+    <string-array name="training_A1">
+        <item>1. Вертикальный жим штанги сидя</item>
+        <item>2. Махи гантелей в стороны</item>
+        <item>3. Тяга штанги к подбородку</item>
+        <item>4. Швунги</item>
+        <item>5. Сгибания рук со штангой сидя</item>
+        <item>6. Сгибания рук с гантелями сидя</item>
+        <item>7. Жим штанги лежа узким хватом</item>
+        <item>8. Разгибание рук с гантелями из-за головы</item>
+        <item>9. Сгибание запястий со штангой + обратное сгибание</item>
+        <item>10. Подъем ног (пресс)</item>
+    </string-array>
+    <integer-array name="img_Arni_T2">
+        <item>@drawable/arni_t_2_1</item>
+        <item>@drawable/arni_t_2_2</item>
+        <item>@drawable/arni_t_2_3</item>
+        <item>@drawable/arni_t_2_4</item>
+        <item>@drawable/arni_t_2_5</item>
+        <item>@drawable/arni_t_2_6</item>
+        <item>@drawable/arni_t_2_7</item>
+        <item>@drawable/arni_t_2_8</item>
+        <item>@drawable/arni_t_2_9</item>
+        <item>@drawable/arni_t_2_10</item>
+    </integer-array>
+    <string-array name="training_A_left1">
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировкий</item>
+        <item>Зависит от вашего веса и вида тренировкий</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_A_right1">
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_A_op1">
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 5-10</item>
+    </string-array>
+
+    ТРЕТЬЯ ТРЕНИРОВКА АРНИ
+
+    <string-array name="training_A2">
+        <item>1. Приседания со штангой</item>
+        <item>2. Выпады со штангой</item>
+        <item>3. Сгибание ног в тренажере</item>
+        <item>4. Голень</item>
+        <item>5. Мертвая тяга</item>
+        <item>6. Наклоны со штангой</item>
+        <item>7. Сгибания туловища (пресс)</item>
+    </string-array>
+    <integer-array name="img_Arni_T3">
+        <item>@drawable/arni_t_3_1</item>
+        <item>@drawable/_6_8___2_</item>
+        <item>@drawable/arni_t_3_3</item>
+        <item>@drawable/arni_t_3_4</item>
+        <item>@drawable/arni_t_3_5</item>
+        <item>@drawable/arni_t_3_6</item>
+        <item>@drawable/arni_t_1_7</item>
+    </integer-array>
+    <string-array name="training_A_left2">
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировкий</item>
+        <item>Зависит от выбранного упражнения</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Зависит от вашего веса и вида тренировки</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_A_right2">
+        <item>12-16</item>
+        <item>12-16</item>
+        <item>12-16</item>
+        <item>12-16</item>
+        <item>12-16</item>
+        <item>12-16</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_A_op2">
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 3-6</item>
+        <item>Количество подходов: 5-10</item>
+    </string-array>
+
+    ТРЕНИРОВКА ГРУДИ СИЛЯ
+
+    <string-array name="training_S">
+        <item>1. Жим штанги лежа</item>
+        <item>2. Кроссовер на блоке</item>
+        <item>3. Разведения гантелей лежа (бабочка)</item>
+        <item>4. Кроссовер на блоке</item>
+        <item>5. Жим штанги на наконной скамье</item>
+        <item>6. Пулловер с гантелей лежа</item>
+        <item>7. Брусья</item>
+        <item>8. Кроссовер на блоке</item>
+    </string-array>
+    <integer-array name="img_Sil_T1">
+        <item>@drawable/_2_16___1_</item>
+        <item>@drawable/_2_29___2_</item>
+        <item>@drawable/_2_26___1_</item>
+        <item>@drawable/_2_29___2_</item>
+        <item>@drawable/_2_18___2_</item>
+        <item>@drawable/_2_24___2_</item>
+        <item>@drawable/_2_22___2_</item>
+        <item>@drawable/_2_29___2_</item>
+    </integer-array>
+    <string-array name="training_S_left">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_S_right">
+        <item>15/10/4</item>
+        <item>20</item>
+        <item>20/15/6</item>
+        <item>20</item>
+        <item>15</item>
+        <item>15</item>
+        <item>Максимальное кол-во</item>
+        <item>25</item>
+    </string-array>
+    <string-array name="training_S_op">
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    ТРЕНИРОВКА ПЛЕЧ СИЛЯ
+
+    <string-array name="training_S1">
+        <item>1. Жим Арнольда</item>
+        <item>2. Разведения гантелей стоя</item>
+        <item>3. Тяга штанги в наклоне</item>
+        <item>4. Жим штанги за голову</item>
+        <item>5. Подъемы гантелей перед собой</item>
+        <item>6. Разведения на блоке</item>
+    </string-array>
+    <integer-array name="img_Sil_T2">
+        <item>@drawable/stal_t_2_1</item>
+        <item>@drawable/stal_t_2_2</item>
+        <item>@drawable/_3_49___2_</item>
+        <item>@drawable/stal_t_2_4</item>
+        <item>@drawable/stal_t_2_5</item>
+        <item>@drawable/_3_22___2_</item>
+    </integer-array>
+    <string-array name="training_S_left1">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_S_right1">
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="training_S_op1">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 6</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    ТРЕНИРОВКА РУК СИЛЯ
+
+    <string-array name="training_S2">
+        <item>1. Французский жим гантели сидя</item>
+        <item>2. Подъем штанги на бицепс на скамье скота</item>
+        <item>3. Французский жим лежа</item>
+        <item>4. Подъемы на бицепс сидя</item>
+        <item>5. Французский жим стоя</item>
+        <item>6. Подъемы на бицепс стоя</item>
+        <item>7. Тренировка предплечий</item>
+    </string-array>
+    <integer-array name="img_Sil_T3">
+        <item>@drawable/_12_30___2_</item>
+        <item>@drawable/_1_2___2_</item>
+        <item>@drawable/_12_27___1_</item>
+        <item>@drawable/stal_t_3_4</item>
+        <item>@drawable/_12_29___2_</item>
+        <item>@drawable/_1_4___2_</item>
+        <item>@drawable/_8_6___2_</item>
+    </integer-array>
+    <string-array name="training_S_left2">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_S_right2">
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="training_S_op2">
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    ТРЕНИРОВКА СПИНЫ СИЛЯ
+
+    <string-array name="training_S3">
+        <item>1. Подтягивания широким хватом</item>
+        <item>2. Тяга Т-грифа на скамье</item>
+        <item>3. Тяга нижнего блока сидя</item>
+        <item>4. Тяга гантели в наклоне</item>
+        <item>5. Подтягивания параллельным хватом</item>
+    </string-array>
+    <integer-array name="img_Sil_T4">
+        <item>@drawable/stal_t_4_1</item>
+        <item>@drawable/_10_13___2_</item>
+        <item>@drawable/_10_11___2_</item>
+        <item>@drawable/_10_7___2_</item>
+        <item>@drawable/stal_t_4_5</item>
+    </integer-array>
+    <string-array name="training_S_left3">
+        <item>Собственный вес</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_S_right3">
+        <item>10-15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="training_S_op3">
+        <item>Количество подходов: 6</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    ТРЕНИРОВКА НОГ СИЛЯ
+
+    <string-array name="training_S4">
+        <item>1. Присед со штангой</item>
+        <item>2. Жим ногами</item>
+        <item>3. Разгибания ног сидя</item>
+        <item>4. Выпады со штангой</item>
+        <item>5. Румынская тяга</item>
+    </string-array>
+    <integer-array name="img_Sil_T5">
+        <item>@drawable/stal_t_5_1</item>
+        <item>@drawable/stal_t_5_2</item>
+        <item>@drawable/_6_9___2_</item>
+        <item>@drawable/_6_8___2_</item>
+        <item>@drawable/_4_8___2_</item>
+    </integer-array>
+    <string-array name="training_S_left4">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_S_right4">
+        <item>20/15/10/8/6/4/2</item>
+        <item>50/25/15/8</item>
+        <item>20</item>
+        <item>12-15</item>
+        <item>5/5/5/3/1/1</item>
+    </string-array>
+    <string-array name="training_S_op4">
+        <item>Количество подходов: 7</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 6-7</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 6</item>
+    </string-array>
+
+    ТРЕНИРОВКА ПРЕССА СИЛЯ
+
+    <string-array name="training_S5">
+        <item>1. Двойные скручивания</item>
+        <item>2. Велосипед</item>
+        <item>3. Боковые скручивания</item>
+        <item>4. Наклоны в сторону с гантелей</item>
+    </string-array>
+    <integer-array name="img_Sil_T6">
+        <item>@drawable/stal_t_6_1</item>
+        <item>@drawable/_9_1___2_</item>
+        <item>@drawable/_9_7___2_</item>
+        <item>@drawable/_9_12___1_</item>
+    </integer-array>
+    <string-array name="training_S_left5">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_S_right5">
+        <item>50</item>
+        <item>50</item>
+        <item>50 каждая сторона</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="training_S_op5">
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    ПЕРВАЯ ТРЕНИРОВКА ВЛАД
+
+    <string-array name="training_V">
+        <item>1. Жим штанги сидя в тренажере Смита</item>
+        <item>2. Подъем штанги на бицепс</item>
+        <item>3. Французский жим со штангой стоя</item>
+        <item>4. Глубокие приседания со штангой</item>
+        <item>5. Жим штанги лежа на горизонтальной скамье</item>
+        <item>6. Тяга штанги в наклоне</item>
+        <item>7. Скручивания</item>
+    </string-array>
+    <integer-array name="img_Vlad_0">
+        <item>@drawable/vlad_t_1_1</item>
+        <item>@drawable/_1_14___2_</item>
+        <item>@drawable/_12_31___2_</item>
+        <item>@drawable/vlad_t_1_4</item>
+        <item>@drawable/vlad_t_1_5</item>
+        <item>@drawable/_10_16___2_</item>
+        <item>@drawable/_9_27___2_</item>
+    </integer-array>
+    <string-array name="training_V_left">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_V_right">
+        <item>10-12</item>
+        <item>10-12</item>
+        <item>10-15</item>
+        <item>12-15</item>
+        <item>10</item>
+        <item>12</item>
+        <item>20-30</item>
+    </string-array>
+    <string-array name="training_V_op">
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+    </string-array>
+
+    ВТОРАЯ ТРЕНИРОВКА ВЛАД
+
+    <string-array name="training_V1">
+        <item>1. Глубокие приседания со штангой на груди</item>
+        <item>2. Приседания с подъемом пяток с отягощением</item>
+        <item>3. Румынская тяга</item>
+        <item>4. Махи гирей одной рукой</item>
+        <item>5. Гиперэкстензия на скамье</item>
+        <item>6. Подъем на носки со штангой</item>
+        <item>7. Подъем на носки со штангой сидя</item>
+        <item>8. Скручивания на пресс с нижнего блока</item>
+    </string-array>
+    <integer-array name="img_Vlad_1">
+        <item>@drawable/_6_13___2_</item>
+        <item>@drawable/vlad_t_2_2</item>
+        <item>@drawable/_4_8___2_</item>
+        <item>@drawable/vlad_t_2_4</item>
+        <item>@drawable/vlad_t_2_5</item>
+        <item>@drawable/_5_6___1_</item>
+        <item>@drawable/_5_7___2_</item>
+        <item>@drawable/vlad_t_2_8</item>
+    </integer-array>
+    <string-array name="training_V_left1">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_V_right1">
+        <item>12-15</item>
+        <item>10-15</item>
+        <item>10-15</item>
+        <item>15-20</item>
+        <item>15-20</item>
+        <item>10-15</item>
+        <item>10-15</item>
+        <item>20-30</item>
+    </string-array>
+    <string-array name="training_V_op1">
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+    </string-array>
+
+    ТРЕТЬЯ ТРЕНИРОВКА ВЛАД
+
+    <string-array name="training_V2">
+        <item>1. Жим штанги сидя</item>
+        <item>2. Разведение гантелей в стороны стоя</item>
+        <item>3. Подъем штанги на бицепс</item>
+        <item>4. Сгибание одной рукой на бицепс на скамье Скотта &#171;Молоток&#187;</item>
+        <item>5. Французский жим со штангой стоя</item>
+        <item>6. Разгибание на трицепс на блоке</item>
+        <item>7. Жим штанги лежа на горизонтальной скамье</item>
+        <item>8. Попеременное разведение гантелей в стороны на скамье</item>
+        <item>9. Тяга штанги в наклоне</item>
+        <item>10. Тяга Т-грифа на скамье</item>
+        <item>11. Косые скручивания на наклонной скамье</item>
+    </string-array>
+    <integer-array name="img_Vlad_2">
+        <item>@drawable/vlad_t_1_1</item>
+        <item>@drawable/_3_39___2_</item>
+        <item>@drawable/_1_14___2_</item>
+        <item>@drawable/vlad_t_3_4</item>
+        <item>@drawable/_12_31___2_</item>
+        <item>@drawable/_12_21___2_</item>
+        <item>@drawable/vlad_t_1_5</item>
+        <item>@drawable/vlad_t_3_8</item>
+        <item>@drawable/_10_16___2_</item>
+        <item>@drawable/_10_13___2_</item>
+        <item>@drawable/_9_11___2_</item>
+    </integer-array>
+    <string-array name="training_V_left2">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_V_right2">
+        <item>10-12</item>
+        <item>10-15</item>
+        <item>10</item>
+        <item>12-15</item>
+        <item>10</item>
+        <item>12-15</item>
+        <item>10</item>
+        <item>12-15</item>
+        <item>12-15</item>
+        <item>12-15</item>
+        <item>20-30</item>
+    </string-array>
+    <string-array name="training_V_op2">
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 1-2</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 1-2</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 1-2</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 1-2</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 1-2</item>
+        <item>Количество подходов: 2-3</item>
+    </string-array>
+
+    ЧЕТВЕРТАЯ ТРЕНИРОВКА ВЛАД
+
+    <string-array name="training_V3">
+        <item>1. Жим штанги лежа на горизонтальной скамье</item>
+        <item>2. Жим гантелей лежа на наклонной скамье</item>
+        <item>3. Пуловер со штангой</item>
+        <item>4. Подъем штанги на бицепс стоя обратным хватом</item>
+        <item>5. Сгибание одной рукой на бицепс на скамье Скотта &#171;Молоток&#187;</item>
+        <item>6. Жим от груди на блоке</item>
+        <item>7. Французский жим со штангой стоя</item>
+        <item>8. Сгибание запястий со штангой ладонями вверх на скамье</item>
+        <item>9. Скручивания на пресс с нижнего блока</item>
+    </string-array>
+    <integer-array name="img_Vlad_3">
+        <item>@drawable/vlad_t_1_5</item>
+        <item>@drawable/_2_8___2_</item>
+        <item>@drawable/_14_8_1</item>
+        <item>@drawable/vlad_t_4_4</item>
+        <item>@drawable/vlad_t_3_4</item>
+        <item>@drawable/_2_12___2_</item>
+        <item>@drawable/_12_31___2_</item>
+        <item>@drawable/_8_6___2_</item>
+        <item>@drawable/vlad_t_2_8</item>
+    </integer-array>
+    <string-array name="training_V_left3">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_V_right3">
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10-15</item>
+        <item>20-30</item>
+    </string-array>
+    <string-array name="training_V_op3">
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2</item>
+        <item>Количество подходов: 2</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 2</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 2</item>
+        <item>Количество подходов: 1-2</item>
+        <item>Количество подходов: 2-3</item>
+    </string-array>
+
+    ПЯТАЯ ТРЕНИРОВКА ВЛАД
+
+    <string-array name="training_V4">
+        <item>1. Приседания с подъемом пяток с отягощением</item>
+        <item>2. Глубокие приседания со штангой</item>
+        <item>3. Махи гирей одной рукой</item>
+        <item>4. Подъем на носки со штангой</item>
+        <item>5. Подъем на носки со штангой сидя</item>
+        <item>6. Косые скручивания на наклонной скамье</item>
+    </string-array>
+    <integer-array name="img_Vlad_4">
+        <item>@drawable/vlad_t_2_2</item>
+        <item>@drawable/vlad_t_1_4</item>
+        <item>@drawable/vlad_t_2_4</item>
+        <item>@drawable/_5_6___1_</item>
+        <item>@drawable/_5_7___2_</item>
+        <item>@drawable/_9_11___2_</item>
+    </integer-array>
+    <string-array name="training_V_left4">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Сабственный вес</item>
+    </string-array>
+    <string-array name="training_V_right4">
+        <item>10-15</item>
+        <item>10-15</item>
+        <item>10-15</item>
+        <item>10-15</item>
+        <item>10-15</item>
+        <item>20-30</item>
+    </string-array>
+    <string-array name="training_V_op4">
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 2</item>
+        <item>Количество подходов: 2-3</item>
+    </string-array>
+
+    ШЕСТАЯ ТРЕНИРОВКА ВЛАД
+
+    <string-array name="training_V5">
+        <item>1. Подтягивания</item>
+        <item>2. Тяга гантелей в наклоне</item>
+        <item>3. Тяга Т-грифа на скамье</item>
+        <item>4. Попеременное разведение гантелей в стороны на скамье</item>
+        <item>5. Жим штанги сидя в тренажере Смита</item>
+        <item>6. Разведение гантелей в стороны стоя</item>
+        <item>7. Шраги с гантелями стоя</item>
+        <item>8. Скручивания</item>
+    </string-array>
+    <integer-array name="img_Vlad_5">
+        <item>@drawable/vlad_t_6_1</item>
+        <item>@drawable/_10_6___2_</item>
+        <item>@drawable/_10_13___2_</item>
+        <item>@drawable/vlad_t_3_8</item>
+        <item>@drawable/vlad_t_1_1</item>
+        <item>@drawable/_3_39___2_</item>
+        <item>@drawable/_11_8___2_</item>
+        <item>@drawable/_9_27___2_</item>
+    </integer-array>
+    <string-array name="training_V_left5">
+        <item>Сабственный вес</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Сабственный вес</item>
+    </string-array>
+    <string-array name="training_V_right5">
+        <item>30</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>12</item>
+        <item>10</item>
+        <item>20-30</item>
+    </string-array>
+    <string-array name="training_V_op5">
+        <item>Количество подходов: 1</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+        <item>Количество подходов: 2-3</item>
+    </string-array>
+
+    День 1-й: Спина ГЕЛЬМУТ
+
+    <string-array name="training_G">
+        <item>1. Становая тяга</item>
+        <item>2. Тяга блока широким хватом</item>
+        <item>3. Тяга штанги в наклоне</item>
+        <item>4. Подтягивания</item>
+        <item>5. Тяга нижнего блока</item>
+        <item>6. Подтягивания</item>
+    </string-array>
+    <integer-array name="img_Gel_0">
+        <item>@drawable/_6_36___2_</item>
+        <item>@drawable/gel_t_1_2</item>
+        <item>@drawable/_10_16___2_</item>
+        <item>@drawable/gel_t_1_4</item>
+        <item>@drawable/_10_11___2_</item>
+        <item>@drawable/gel_t_1_4</item>
+    </integer-array>
+    <string-array name="training_G_left">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Сабственный вес</item>
+    </string-array>
+    <string-array name="training_G_right">
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_G_op">
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 1</item>
+    </string-array>
+
+    День 2-й: Грудные мышцы ГЕЛЬМУТ
+
+    <string-array name="training_G1">
+        <item>1. Разведение гантелей в наклоне</item>
+        <item>2. Жим штанги лежа на скамье с положительным наклоном</item>
+        <item>3. Бабочка</item>
+        <item>4. Жим штанги лежа</item>
+        <item>5. Сведение рук в кроссовере</item>
+        <item>6. Жим штанги лежа на скамье с отрицательным наклоном</item>
+        <item>7. Отжимания от пола</item>
+    </string-array>
+    <integer-array name="img_Gel_1">
+        <item>@drawable/_2_27___1_</item>
+        <item>@drawable/_2_18___2_</item>
+        <item>@drawable/gel_t_2_3</item>
+        <item>@drawable/_2_11___1_</item>
+        <item>@drawable/gel_t_2_5</item>
+        <item>@drawable/_2_17___2_</item>
+        <item>@drawable/gel_t_2_7</item>
+    </integer-array>
+    <string-array name="training_G_left1">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Сабственный вес</item>
+    </string-array>
+    <string-array name="training_G_right1">
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_G_op1">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 1</item>
+    </string-array>
+
+    День 3-й: Мышцы ног ГЕЛЬМУТ
+
+    <string-array name="training_G2">
+        <item>1. Жим ногами</item>
+        <item>2. Разгибание ног в тренажере сидя</item>
+        <item>3. Сгибание ног в тренажере лежа</item>
+        <item>4. Икры «осликом»</item>
+        <item>5. Приседания со штангой</item>
+        <item>6. Выпады с гантелями</item>
+    </string-array>
+    <integer-array name="img_Gel_2">
+        <item>@drawable/_6_16___2_</item>
+        <item>@drawable/gel_t_3_2</item>
+        <item>@drawable/gel_t_3_3</item>
+        <item>@drawable/gel_t_3_4</item>
+        <item>@drawable/_6_30___2_</item>
+        <item>@drawable/_6_7___2_</item>
+    </integer-array>
+    <string-array name="training_G_left2">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_G_right2">
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_G_op2">
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 6</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 1</item>
+    </string-array>
+
+    День 4-й: Руки ГЕЛЬМУТ
+
+    <string-array name="training_G3">
+        <item>1. Подъем EZ-штанги на бицепс на скамье Скотта</item>
+        <item>2. Французский жим с прямым либо изогнутым грифом</item>
+        <item>3. Подъем гантелей на бицепс хватом «молоток»</item>
+        <item>4. Разгибание рук на верхнем блоке</item>
+        <item>5. Сгибание рук на бицепс со штангой</item>
+        <item>6. Французский жим с гантелью из-за головы</item>
+    </string-array>
+    <integer-array name="img_Gel_3">
+        <item>@drawable/gel_t_4_1</item>
+        <item>@drawable/_12_31___2_</item>
+        <item>@drawable/_1_12___2_</item>
+        <item>@drawable/_12_20___2_</item>
+        <item>@drawable/_1_5___2_</item>
+        <item>@drawable/_12_29___2_</item>
+    </integer-array>
+    <string-array name="training_G_left3">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_G_right3">
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="training_G_op3">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    День 5-й: Мышцы пресса ГЕЛЬМУТ
+
+    <string-array name="training_G4">
+        <item>1. Скручивания с рукоятью косичка в тренажере «кросовер»</item>
+        <item>2. Подъем туловища на фитболе</item>
+        <item>3. Подъем прямых ног</item>
+        <item>4. Повороты корпусом с медболом в руках</item>
+        <item>5. Подъем туловища с касанием пальцев ног лежа</item>
+        <item>6. На турнике подъем ног</item>
+    </string-array>
+    <integer-array name="img_Gel_4">
+        <item>@drawable/gel_t_5_1</item>
+        <item>@drawable/gel_t_5_2</item>
+        <item>@drawable/_9_23___2_</item>
+        <item>@drawable/gel_t_5_4</item>
+        <item>@drawable/_9_9___2_</item>
+        <item>@drawable/gel_t_5_6</item>
+    </integer-array>
+    <string-array name="training_G_left4">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_G_right4">
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_G_op4">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 1</item>
+    </string-array>
+
+    День 6-й: Тренировка дельтовидных мышц (плечи) ГЕЛЬМУТ
+
+    <string-array name="training_G5">
+        <item>1. Жим гантелей сидя</item>
+        <item>2. Разведение в стороны</item>
+        <item>3. Подъём гантелей перед собой</item>
+        <item>4. Шраги</item>
+        <item>5. Армейский жим</item>
+        <item>6. Жим Арнольда</item>
+    </string-array>
+    <integer-array name="img_Gel_5">
+        <item>@drawable/_3_6___1_</item>
+        <item>@drawable/_3_39___2_</item>
+        <item>@drawable/_3_26___2_</item>
+        <item>@drawable/_11_8___2_</item>
+        <item>@drawable/_3_1___2_</item>
+        <item>@drawable/_3_4___1_</item>
+    </integer-array>
+    <string-array name="training_G_left5">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_G_right5">
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="training_G_op5">
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    Понедельник (грудь, пресс) ФИЛ
+
+    <string-array name="training_F">
+        <item>1. Жим штанги лежа на скамье с положительным наклоном</item>
+        <item>2. Жим штанги на горизонтальной скамье</item>
+        <item>3. Сведения рук в тренажере «бабочка»</item>
+        <item>4. Сведение рук в кроссовере</item>
+        <item>5. Скручивания</item>
+        <item>6. Подъемы ног лежа на скамье</item>
+        <item>7. Подъемы ног в висе</item>
+        <item>8. Упражнение «ножницы»</item>
+    </string-array>
+    <integer-array name="img_Fil_0">
+        <item>@drawable/fil_t_1_1</item>
+        <item>@drawable/fil_t_1_2</item>
+        <item>@drawable/fil_t_1_3</item>
+        <item>@drawable/fil_t_1_4</item>
+        <item>@drawable/_9_27___2_</item>
+        <item>@drawable/_9_23___2_</item>
+        <item>@drawable/_9_19___2_</item>
+        <item>@drawable/_9_4___2_</item>
+    </integer-array>
+    <string-array name="training_F_left">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+
+    </string-array>
+    <string-array name="training_F_right">
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>8-12</item>
+        <item>20-30</item>
+        <item>20-30</item>
+        <item>20-30</item>
+        <item>20-30</item>
+
+    </string-array>
+    <string-array name="training_F_op">
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+    </string-array>
+
+    Вторник (квадрицепс, бицепс бедра, икроножные мышцы) ФИЛ
+
+    <string-array name="training_F1">
+        <item>1. Приседания со штангой</item>
+        <item>2. Жим ногами в тренажере</item>
+        <item>3. Гакк-приседания лицом к тренажеру</item>
+        <item>4. Разгибания ног сидя</item>
+        <item>5. Сгибания ног лежа</item>
+        <item>6. Сгибание одной ноги стоя</item>
+        <item>7. Становая тяга на прямых ногах</item>
+        <item>8. Подъем на носки в тренажере</item>
+    </string-array>
+    <integer-array name="img_Fil_1">
+        <item>@drawable/fil_t_2_1</item>
+        <item>@drawable/fil_t_2_2</item>
+        <item>@drawable/fil_t_2_3</item>
+        <item>@drawable/_6_9___2_</item>
+        <item>@drawable/_4_12___2_</item>
+        <item>@drawable/fil_t_2_6</item>
+        <item>@drawable/_4_17___2_</item>
+        <item>@drawable/fil_t_2_8</item>
+    </integer-array>
+    <string-array name="training_F_left1">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_F_right1">
+        <item>8-10</item>
+        <item>8-10</item>
+        <item>8-10</item>
+        <item>20</item>
+        <item>20</item>
+        <item>8-10</item>
+        <item>8-10</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_F_op1">
+        <item>Количество подходов: 4-5</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    Среда (спина) ФИЛ
+
+    <string-array name="training_F2">
+        <item>1. Подтягивания широким хватом</item>
+        <item>2. Тяга гантели в наклоне</item>
+        <item>3. Тяга штанги в наклоне</item>
+        <item>4. Тяга нижнего блока к поясу сидя</item>
+        <item>5. Пуловер на выбор</item>
+    </string-array>
+    <integer-array name="img_Fil_2">
+        <item>@drawable/fil_t_3_1</item>
+        <item>@drawable/fil_t_3_2</item>
+        <item>@drawable/fil_t_3_3</item>
+        <item>@drawable/fil_t_3_4</item>
+        <item>@drawable/_14_8_1</item>
+    </integer-array>
+    <string-array name="training_F_left2">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_F_right2">
+        <item>10-12</item>
+        <item>8-10</item>
+        <item>10 прямым хватом 10 обратным</item>
+        <item>10</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="training_F_op2">
+        <item>Количество подходов: 5-7</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    Четверг (дельтовидные, пресс) ФИЛ
+
+    <string-array name="training_F3">
+        <item>1. Жим гантелей сидя</item>
+        <item>2. Разведения гантелей в стороны</item>
+        <item>3. Разведение рук в тренажере (обратная бабочка)</item>
+        <item>4. Вертикальная тяга штанги</item>
+        <item>5. Скручивания</item>
+        <item>6. Подъемы ног лежа на скамье</item>
+        <item>7. Подъемы ног в висе</item>
+        <item>8. Упражнение «ножницы»</item>
+    </string-array>
+    <integer-array name="img_Fil_3">
+        <item>@drawable/fil_t_4_1</item>
+        <item>@drawable/fil_t_4_2</item>
+        <item>@drawable/_3_37___2_</item>
+        <item>@drawable/_3_2___2_</item>
+        <item>@drawable/_9_27___2_</item>
+        <item>@drawable/_9_23___2_</item>
+        <item>@drawable/_9_19___2_</item>
+        <item>@drawable/_9_4___2_</item>
+    </integer-array>
+    <string-array name="training_F_left3">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_F_right3">
+        <item>10</item>
+        <item>Максимальное кол-во</item>
+        <item>12</item>
+        <item>10</item>
+        <item>20-30</item>
+        <item>20-30</item>
+        <item>20-30</item>
+        <item>20-30</item>
+    </string-array>
+    <string-array name="training_F_op3">
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3-4</item>
+    </string-array>
+
+    Пятница (руки) ФИЛ
+
+    <string-array name="training_F4">
+        <item>1. Подъем гантелей на бицепс стоя</item>
+        <item>2. Подъем штанги на бицепс в машине Смита</item>
+        <item>3. Подъем гантелей на бицепс сидя на наклонной скамье</item>
+        <item>4. Подъем штанги на бицепс</item>
+        <item>5. Разгибания рук с верхнего блока</item>
+        <item>6. Французский жим с гантелью из-за головы</item>
+        <item>7. Концентрированные сгибания рук с гантелью</item>
+        <item>8. Отжимания на брусьях</item>
+        <item>9. Подъем гантелей на бицепс хватом «молоток»</item>
+    </string-array>
+    <integer-array name="img_Fil_4">
+        <item>@drawable/_1_11___2_</item>
+        <item>@drawable/fil_t_5_2</item>
+        <item>@drawable/_1_39___2_</item>
+        <item>@drawable/fil_t_5_4</item>
+        <item>@drawable/_12_20___2_</item>
+        <item>@drawable/_12_29___2_</item>
+        <item>@drawable/fil_t_5_7</item>
+        <item>@drawable/fil_t_5_8</item>
+        <item>@drawable/_1_12___2_</item>
+    </integer-array>
+    <string-array name="training_F_left4">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_F_right4">
+        <item>10-12</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>30</item>
+        <item>10-12</item>
+        <item>10</item>
+        <item>10-12</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="training_F_op4">
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3-4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 2-3</item>
+    </string-array>
+
+    Грудь СКАЛА
+
+    <string-array name="training_C">
+        <item>1. Жим гантелей лежа</item>
+        <item>2. Разведение рук с гантелями лежа</item>
+        <item>3. Жим штанги лежа</item>
+        <item>4. Жим гантелей лежа под углом</item>
+        <item>5. Сведение рук в кроссовере</item>
+        <item>6. Жим штанги лежа на скамье с положительным наклоном</item>
+    </string-array>
+    <integer-array name="img_Ckala_0">
+        <item>@drawable/_2_4___1_</item>
+        <item>@drawable/ckala_t_1_2</item>
+        <item>@drawable/_2_11___1_</item>
+        <item>@drawable/ckala_t_1_4</item>
+        <item>@drawable/ckala_t_1_5</item>
+        <item>@drawable/_2_18___2_</item>
+    </integer-array>
+    <string-array name="training_C_left">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_C_right">
+        <item>10-12</item>
+        <item>Максимальное кол-во</item>
+        <item>10-12</item>
+        <item>10-12</item>
+        <item>10-12</item>
+        <item>10-12</item>
+    </string-array>
+    <string-array name="training_C_op">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 5</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    Ноги СКАЛА
+
+    <string-array name="training_C1">
+        <item>1. Жим ногами</item>
+        <item>2. Выпады со штангой</item>
+        <item>3. Разгибание ног сидя</item>
+        <item>4. Сгибание ног сидя</item>
+        <item>5. Поднятие на носки со штангой</item>
+        <item>6. Разведение ног</item>
+        <item>7. Выпады со штангой в тренажере Смита</item>
+    </string-array>
+    <integer-array name="img_Ckala_1">
+        <item>@drawable/ckala_t_2_1</item>
+        <item>@drawable/_6_8___2_</item>
+        <item>@drawable/ckala_t_2_3</item>
+        <item>@drawable/_4_13___2_</item>
+        <item>@drawable/_5_6___1_</item>
+        <item>@drawable/ckala_t_2_6</item>
+        <item>@drawable/ckala_t_2_7</item>
+    </integer-array>
+    <string-array name="training_C_left1">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_C_right1">
+        <item>25</item>
+        <item>25</item>
+        <item>20</item>
+        <item>20</item>
+        <item>Максимальное кол-во</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="training_C_op1">
+    <item>Количество подходов: 4</item>
+    <item>Количество подходов: 4</item>
+    <item>Количество подходов: 3</item>
+    <item>Количество подходов: 3</item>
+    <item>Количество подходов: 3</item>
+    <item>Количество подходов: 3</item>
+    <item>Количество подходов: 3</item>
+    </string-array>
+
+    Пресс и руки СКАЛА
+
+    <string-array name="training_C2">
+        <item>1. Подъем штанги на бицепс</item>
+        <item>2. Упражнение на бицепс «Молоток»</item>
+        <item>3. Подъем штанги на бицепс на скамье Скотта</item>
+        <item>4. Разгибание рук с гантелями на трицепс</item>
+        <item>5. Отжимания на брусьях</item>
+        <item>6. Подъем ног на перекладине</item>
+        <item>7. Скручивание «Молитва»</item>
+        <item>8. Скручивания</item>
+    </string-array>
+    <integer-array name="img_Ckala_2">
+        <item>@drawable/ckala_t_3_1</item>
+        <item>@drawable/_1_12___2_</item>
+        <item>@drawable/ckala_t_3_3</item>
+        <item>@drawable/_12_11___2_</item>
+        <item>@drawable/ckala_t_3_5</item>
+        <item>@drawable/_9_19___2_</item>
+        <item>@drawable/gel_t_5_1</item>
+        <item>@drawable/_9_27___2_</item>
+    </integer-array>
+    <string-array name="training_C_left2">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_C_right2">
+        <item>10-12</item>
+        <item>10-12</item>
+        <item>Максимальное кол-во</item>
+        <item>10</item>
+        <item>Максимальное кол-во</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="training_C_op2">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 3</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+    </string-array>
+
+    Спина СКАЛА
+
+    <string-array name="training_C3">
+        <item>1. Вертикальная тяга к груди</item>
+        <item>2. Мертвая тяга</item>
+        <item>3. Шраги со штангой</item>
+        <item>4. Подтягивания с широким хватом</item>
+        <item>5. Гиперэкстрензия</item>
+        <item>6. Сгибание одной руки с гантелей в наклоне</item>
+        <item>7. Горизонтальные подтягивания к штанге</item>
+    </string-array>
+    <integer-array name="img_Ckala_3">
+        <item>@drawable/ckala_t_4_1</item>
+        <item>@drawable/ckala_t_4_2</item>
+        <item>@drawable/ckala_t_4_3</item>
+        <item>@drawable/ckala_t_4_4</item>
+        <item>@drawable/ckala_t_4_5</item>
+        <item>@drawable/ckala_t_4_6</item>
+        <item>@drawable/_10_1___2_</item>
+    </integer-array>
+    <string-array name="training_C_left3">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+        <item>Собственный вес</item>
+    </string-array>
+    <string-array name="training_C_right3">
+        <item>10-15</item>
+        <item>10-15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>Максимальное кол-во</item>
+    </string-array>
+    <string-array name="training_C_op3">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+    Плечи СКАЛА
+
+    <string-array name="training_C4">
+        <item>1. Жим гантелей сидя</item>
+        <item>2. Подъем рук с гантелями перед собой</item>
+        <item>3. Подъем рук с гантелями в стороны</item>
+        <item>4. Подъем штанги перед собой</item>
+        <item>5. Разведение рук лежа под углом на животе</item>
+    </string-array>
+    <integer-array name="img_Ckala_4">
+        <item>@drawable/ckala_t_5_1</item>
+        <item>@drawable/_3_26___2_</item>
+        <item>@drawable/ckala_t_5_3</item>
+        <item>@drawable/_3_2___2_</item>
+        <item>@drawable/_3_17___2_</item>
+    </integer-array>
+    <string-array name="training_C_left4">
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+        <item>Зависит от вашего веса</item>
+    </string-array>
+    <string-array name="training_C_right4">
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>12</item>
+        <item>10-15</item>
+    </string-array>
+    <string-array name="training_C_op4">
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 4</item>
+        <item>Количество подходов: 3</item>
+    </string-array>
+
+</resources>

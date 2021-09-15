@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sgugit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SGUGiT">
+        <activity
+            android:name=".AboutApp"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_about_app"
+            android:theme="@style/Theme.SGUGiT.NoActionBar"></activity>
+        <activity
+            android:name=".CelebrityOp"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_celebrity_op"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".CelebrityGO"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_celebrity_g_o"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".Celebrity"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_celebrity"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".MeasurementsGO"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_measurements_g_o"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".Measurements"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_measurements"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".Exercises_Op"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_exerises__op"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".MyTraining"
+            android:permission=".WAKE_LOCK"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".ListExercises"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_exercises"
+            android:theme="@style/Theme.SGUGiT.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.SGUGiT.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
